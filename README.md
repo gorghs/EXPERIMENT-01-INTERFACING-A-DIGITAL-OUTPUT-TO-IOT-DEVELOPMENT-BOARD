@@ -118,13 +118,13 @@ int main(void)
 ```
 
 ## OUTPUT
-ON :
+OFF :
 
 
 ![WhatsApp Image 2025-04-09 at 10 14 44_31471ca6](https://github.com/user-attachments/assets/a3be58bd-73a9-4e49-9413-93ba355cd558)
 
 
-OFF:
+ON:
 
 ![WhatsApp Image 2025-04-09 at 10 14 45_31c209dc](https://github.com/user-attachments/assets/d82c5054-e80c-4304-9f09-10a37800ca3b)
 
